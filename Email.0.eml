@@ -1,0 +1,59 @@
+Return-path: <igor@df.rtu.lv>
+Received: from WorldClient by mail.df.rtu.lv (MDaemon PRO v12.0.3)
+	with ESMTP id md50000090873.msg
+	for <igor@df.rtu.lv>; Sun, 05 Oct 2014 21:15:34 +0300
+Authentication-Results: mail.df.rtu.lv
+	auth=pass smtp.mail=igor@df.rtu.lv
+X-Spam-Processed: mail.df.rtu.lv, Sun, 05 Oct 2014 21:15:34 +0300
+	(not processed: message from trusted or authenticated source)
+X-Authenticated-Sender: igor@df.rtu.lv
+X-Rcpt-To: igor@df.rtu.lv
+X-MDRcpt-To: igor@df.rtu.lv
+X-Return-Path: igor@df.rtu.lv
+X-Envelope-From: igor@df.rtu.lv
+X-MDaemon-Deliver-To: igor@df.rtu.lv
+Received: from [78.28.207.60] by df.rtu.lv via WorldClient with HTTP;
+	Sun, 05 Oct 2014 21:15:34 +0300
+Date: Sun, 05 Oct 2014 21:15:34 +0300
+From: "Igor Schukin" <igor@df.rtu.lv>
+To: "Igor Schukin" <igor@df.rtu.lv>
+Subject: Sample E-mail
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="1005_1815_34_PART-BREAK"
+Message-ID: <WC20141005181534.770081@df.rtu.lv>
+X-Mailer: WorldClient 12.0.3
+
+--1005_1815_34_PART-BREAK
+Content-Type: text/plain; charset="us-ascii"
+
+
+Sample E-mail without atachements
+
+Igor Schukin
+
+--1005_1815_34_PART-BREAK
+Content-Type: text/html; charset="us-ascii"
+
+<html><body>
+<div style="font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); 
+font-weight: normal; font-style: normal; background: none 0% 0% / auto 
+repeat scroll padding-box border-box rgba(0, 0, 0, 0);">
+	&nbsp;</div>
+<div style="font-size: 11px; font-family: Arial; color: rgb(0, 0, 0); 
+font-weight: normal; font-style: normal; background: none 0% 0% / auto 
+repeat repeat scroll padding-box border-box rgba(0, 0, 0, 0);">
+	<span style="font-size:10pt;">Sample E-mail without atachements</span></div>
+
+<div style="font-size: 11px; font-family: Arial; color: rgb(0, 0, 0); 
+font-weight: normal; font-style: normal; background: none 0% 0% / auto 
+repeat repeat scroll padding-box border-box rgba(0, 0, 0, 0);">
+	&nbsp;</div>
+<hr style="font-size: 11px;" />
+<div style="font-size: 11px; font-family: Arial; color: rgb(0, 0, 0); 
+font-weight: normal; font-style: normal; background: none 0% 0% / auto 
+repeat repeat scroll padding-box border-box rgba(0, 0, 0, 0);">
+	<span style="font-size:10pt;">Igor Schukin</span></div>
+</body></html>
+
+
+--1005_1815_34_PART-BREAK--
